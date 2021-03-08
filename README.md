@@ -1,4 +1,4 @@
-# Collatz
+# Collatz Utilities
 
 A simple set of computational tools to test the [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture).
 
